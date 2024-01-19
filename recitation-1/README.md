@@ -24,13 +24,18 @@ We will also cover the items we could not cover Wednesday and make sure you are 
 ## Working with Git
 
 * Open recitation 1 repo in web browser: https://github.com/cmu-crafting-software/Recitation01
-* Choose where you want to keep the local copy of the repository
+* In your terminal, go to where you want to keep the local copy of the repository
 * Clone the repo, which makes a copy of it locally: `git clone https://github.com/cmu-crafting-software/Recitation01.git`
 * Create a branch w/your andrew id: `git branch <andrewid>`
+* Check to see which branch you are on (it's `main`): `git status`
+* Switch to the branch you created: `git checkout mcd2`
+* Check to see which branch you are on (it's yours): `git status`
 * Edit `foodOptions.txt` (e.g., using Visual Studio Code) and add your favorite food (or delete your least-favorite food)!
+* See if you have any changes to stage (you do): `git status`
 * Stage the change that you made: `git add foodOptions.txt`
+* See if you have any changes to commit (you do): `git status`
 * Commit the change to the local repo: `git commit -m "<brief description of the change>"`
-* Push your new branch and change to GitHub: `git push`
+* Push your new branch and commit to GitHub: `git push` (if you get a warning suggesting a change to your command, use that. E.g., `git push --set-upstream origin <andrewid>`)
 * Check GitHub to see that your branch is now there: https://github.com/cmu-crafting-software/Recitation01 (click `Branches`)
 
 To merge your branch into `main`:
