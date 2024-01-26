@@ -77,7 +77,7 @@ _2024-01-26_
 
 * Split into groups of 2-3
 * Choose a specific state and county within the United States, e.g.,
-  * Los Angeles County, PA
+  * Los Angeles County, CA
   * Wake County, NC
   * Nassau County, NY
 * Use the Census API to find population information about this county
