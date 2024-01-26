@@ -21,7 +21,8 @@ _2024-01-26_
 ## The census API
 
 * Their homepage: <https://www.census.gov/data/developers/guidance/api-user-guide.Overview.html>
-  * Step 0: Request an API key
+  * Step 0: Request an API key. 
+  * To use your API key, append `&key=` followed by your key at the end of your  URL)
 * Ways to access REST APIs:
   * Web browser
   * Python:
