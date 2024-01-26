@@ -21,7 +21,7 @@ _2024-01-26_
 ## The census API
 
 * Their homepage: <https://www.census.gov/data/developers/guidance/api-user-guide.Overview.html>
-  * Step 0: request an API key
+  * Step 0: Request an API key
 * Ways to access REST APIs:
   * Web browser
   * Python:
@@ -72,7 +72,7 @@ _2024-01-26_
    https://api.census.gov/data/2019/pep/charagegroups?get=NAME,POP&RACE=10&AGEGROUP=19&for=state:42
    ```
 
-## Project
+## In-class Project
 
 * Split into groups of 2-3
 * Choose a specific state and county within the United States, e.g.,
