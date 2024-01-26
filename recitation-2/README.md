@@ -26,8 +26,9 @@ _2024-01-26_
   * Web browser
   * Python:
     ```
-    python3
-    requests.get('https://api.census.gov/data/2019/pep/charagegroups?get=NAME,POP&for=state:*')
+    import requests
+    r = requests.get('https://api.census.gov/data/2019/pep/charagegroups?get=NAME,POP&for=state:*')
+    print(r.text)
     ```  
   * curl:
     ```
