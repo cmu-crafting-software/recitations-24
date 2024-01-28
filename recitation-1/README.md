@@ -19,7 +19,7 @@ We will also cover the items we could not cover Wednesday and make sure you are 
 * Install Visual Studio Code: https://code.visualstudio.com/
 * Create GitHub account: https://github.com/ & post your GitHub id to Slack
 * \[TA\] Add GitHub ids to students group
-* Install GitHub CLI and cache credentials: https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
+* Install GitHub Credential Manager to cache credentials: https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
 
 ## Working with Git
 
