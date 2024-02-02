@@ -97,7 +97,7 @@ Open the Python REPL: ```python3```
 
 ## Homework 2 Checkpoint
 
-Who has accepted and started the homework 2 assignment yet? 
+Who has accepted and started homework 2? 
 
 The link to accept it is in the assignment on the course website: https://cmu-crafting-software.github.io//assignments/hw2
 
