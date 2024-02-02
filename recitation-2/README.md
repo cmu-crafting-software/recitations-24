@@ -6,7 +6,7 @@ _2024-01-26_
 
 ## Overview
 
-* We learned how to access and programmatically manipulate data locally.
+* We previously learned how to access and programmatically manipulate data locally.
 * Web API: programmatic access to remote data
 * REST (Representation state transfer)
   * Architecture for designing an API
