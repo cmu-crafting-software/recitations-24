@@ -30,10 +30,11 @@ Open the Python REPL: ```python3```
 * ```b2``` -> ```True```
 ### Strings
 * ```s='Hello world'```
-* ```s``` -> ```'Hello world```
+* ```s``` -> ```'Hello world'```
 * Substrings
   * ```s[4]``` -> ```'o'```
-  * ```s[-1]``` -> ```!```
+  * ```s[-1]``` -> ```'d'```
+  * ```s[-2]``` -> ```'l'```
   * ```s[0:4]``` -> ```'Hell'```
   * ```s[1:4]``` -> ```'ell'```
   * ```s[1:]``` -> ```'ello world'```
