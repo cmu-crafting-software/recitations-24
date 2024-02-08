@@ -85,7 +85,7 @@ class WordleGame:
                 valid_chars.sort()
                 print("Valid characters left: ", valid_chars)
             if self.game_won:
-                print("YAY! You won! Tweet your result:")
+                print("YAY! You won! Toot your result on Mastodon:")
                 self.show_history()
 
     def show_history(self):
