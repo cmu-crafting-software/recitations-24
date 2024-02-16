@@ -1,0 +1,4 @@
+date,temp,precipitation,station_id,lat,lng,name,sensor name,manufacturer
+2021-02-16,75,0.1,1,32,81,"Savannah, GA station",Weathermatic,ACME
+2021-02-16,-10,0.0,2,46,92,"Duluth, MN station",MyTemp,ACME
+2021-02-17,65,0.0,1,9,79,"Panama City, Panama station",SensiWeather,Westinghouse

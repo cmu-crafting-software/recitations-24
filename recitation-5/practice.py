@@ -29,5 +29,6 @@ print(df1_df4_inner_joined)
 df2_indexed = df2.set_index('id') # sensors
 all_inner_joined = df1_df4_inner_joined.join(df2_indexed, how='inner') #inner joins
 
-
+# write this to a csv file
+all_inner_joined.to_csv('joined_dataframe.csv', index=False)
 
