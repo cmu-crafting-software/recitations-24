@@ -1,8 +1,6 @@
 # Recitation 7: Deploying your visualization to the internet using GitHub Pages
 
-__Matthew Davis__
-
-2024-03-29_
+__Matthew Davis__, __2024-03-29__
 
 ## Setup Github Pages
 
