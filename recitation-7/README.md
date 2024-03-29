@@ -46,6 +46,9 @@ GitHub Pages is a deployment service that lets you automatically deploy your web
   * To update your new website on the internet: add, commit, and push to your remote GitHub repo
   * GitHub Pages will build and deploy the changes you pushed to your website automatically after a few minutes
 * Explore some of the other CSS and HTML options
+  * Remmeber to add, commit, and push to your remote GitHub repo frequently!
+* Take a look at some of the pages in the Slack channel. Do you see anything you like? How could you re-create it? 
+  * Hint: Use View Source or F12 Developer Tools in your web browser
 
 ## How does this actually work?
 
