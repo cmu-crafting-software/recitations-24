@@ -1,6 +1,8 @@
 # Recitation 7: Deploying your visualization to the internet using GitHub Pages
 
-__Matthew Davis__, __2024-03-29__
+__Matthew Davis__ (based on Wode "Nimo" Ni's 2022 recitation 7)
+
+_2024-03-29_
 
 ## Setup Github Pages
 

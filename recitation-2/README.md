@@ -1,6 +1,6 @@
 # Recitation 2: REST and Web APIs
 
-__Matthew Davis__
+__Matthew Davis__ (based on Wode "Nimo" Ni's 2022 recitation 2)
 
 _2024-01-26_
 

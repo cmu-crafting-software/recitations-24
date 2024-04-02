@@ -1,6 +1,6 @@
 # Recitation 4: classes, objects, and sets
 
-__Matthew Davis__
+__Matthew Davis__ (based on Wode "Nimo" Ni's 2022 recitation 4)
 
 _2024-02-09_
 
